@@ -14,5 +14,3 @@ The following features are demonstrated:
 - Drag and drop
 - DataGridView
 - Web service queries
-
-Das Projekt auf Github gibt’s hier.
